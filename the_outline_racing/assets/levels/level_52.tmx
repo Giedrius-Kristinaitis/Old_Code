@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="500" height="40" tilewidth="32" tileheight="32" nextobjectid="154">
+ <properties>
+  <property name="max_time" type="float" value="22"/>
+ </properties>
+ <objectgroup name="finish layer">
+  <object id="3" name="finish" x="15739" y="1018" width="9" height="8">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="point layer">
+  <object id="133" x="10345" y="479">
+   <polyline points="0,0 -9,-10 -9,-18 1,-28 11,-28 21,-19 22,-9 13,0 0,0"/>
+  </object>
+  <object id="153" x="32" y="1246">
+   <polyline points="0,0 735,1 15938,2"/>
+  </object>
+ </objectgroup>
+</map>

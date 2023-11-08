@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="500" height="40" tilewidth="32" tileheight="32" nextobjectid="460">
+ <properties>
+  <property name="max_time" type="float" value="30"/>
+ </properties>
+ <objectgroup name="finish layer">
+  <object id="3" name="finish" x="15739" y="1018" width="9" height="8">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="point layer">
+  <object id="436" x="32" y="1215">
+   <polyline points="0,0 672,0"/>
+  </object>
+  <object id="437" x="736" y="1182">
+   <polyline points="0,0 577,0"/>
+  </object>
+  <object id="438" x="1343" y="1152">
+   <polyline points="0,0 643,-2"/>
+  </object>
+  <object id="439" x="2015" y="1120">
+   <polyline points="0,0 705,0"/>
+  </object>
+  <object id="440" x="2753" y="1088">
+   <polyline points="0,0 599,-2"/>
+  </object>
+  <object id="441" x="3392" y="1055">
+   <polyline points="0,0 705,1"/>
+  </object>
+  <object id="442" x="4129" y="1024">
+   <polyline points="0,0 573,-1"/>
+  </object>
+  <object id="443" x="4737" y="991">
+   <polyline points="0,0 639,-1"/>
+  </object>
+  <object id="444" x="5410" y="958">
+   <polyline points="0,0 638,1"/>
+  </object>
+  <object id="445" x="6078" y="929">
+   <polyline points="0,0 642,-2"/>
+  </object>
+  <object id="446" x="6752" y="896">
+   <polyline points="0,0 637,-2"/>
+  </object>
+  <object id="447" x="7424" y="865">
+   <polyline points="0,0 540,-2"/>
+  </object>
+  <object id="448" x="7999" y="896">
+   <polyline points="0,0 417,-2 544,-1"/>
+  </object>
+  <object id="449" x="8577" y="928">
+   <polyline points="0,0 574,-1"/>
+  </object>
+  <object id="450" x="9184" y="960">
+   <polyline points="0,0 671,-2"/>
+  </object>
+  <object id="451" x="9890" y="991">
+   <polyline points="0,0 733,2"/>
+  </object>
+  <object id="452" x="10656" y="1024">
+   <polyline points="0,0 669,1"/>
+  </object>
+  <object id="453" x="11359" y="1055">
+   <polyline points="0,0 673,0"/>
+  </object>
+  <object id="454" x="12065" y="1088">
+   <polyline points="0,0 672,0"/>
+  </object>
+  <object id="455" x="12768" y="1121">
+   <polyline points="0,0 610,0"/>
+  </object>
+  <object id="456" x="13439" y="1152">
+   <polyline points="0,0 639,1"/>
+  </object>
+  <object id="457" x="14145" y="1184">
+   <polyline points="0,0 605,1"/>
+  </object>
+  <object id="458" x="14816" y="1183">
+   <polyline points="0,0 639,1"/>
+  </object>
+  <object id="459" x="15519" y="1181">
+   <polyline points="0,0 451,3"/>
+  </object>
+ </objectgroup>
+</map>
